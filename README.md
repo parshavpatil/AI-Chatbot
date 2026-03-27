@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ### 2. Setup environment
 ```bash
-cp .env.example .env
+.env
 # Add your Groq API key from https://console.groq.com
 ```
 
