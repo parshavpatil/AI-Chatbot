@@ -1,7 +1,8 @@
 # AI Chatbot — Powered by Groq (Free)
 
 A full-stack AI chatbot built with Python, Groq LLM API, and Flask.
-Includes a CLI mode and a web UI — both powered by the same core engine.
+
+Check it live here: [AI Chatbot](https://ai-chatbot-5dgw.onrender.com)
 
 ## Project Structure
 
@@ -50,10 +51,7 @@ python app.py
 python main.py
 ```
 
-## Run Tests
-```bash
-pytest tests/ -v
-```
+
 
 ## Features
 - Free Groq API (llama-3.3-70b-versatile)
